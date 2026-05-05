@@ -3,6 +3,11 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+#my extentions
+data/messages/*.MES
+insightroom-backend/data/messages/*.MES
+insightroom-backend/data/messages/*.ini
+
 # C extensions
 *.so
 
